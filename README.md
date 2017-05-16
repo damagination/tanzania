@@ -9,7 +9,7 @@ Install pre-requisites
 
 To run script
 
-```python <script name>```
+```python profile_scrapper.py```
 
 
 To run the API server
