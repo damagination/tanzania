@@ -1,3 +1,6 @@
+<h2> *** PROJECT MOVED TO -> https://github.com/kilibits/tanzania </h2>
+
+
 This repository is an extension of/built on top of https://github.com/everypolitician-scrapers/tanzania
 
 
